@@ -1,0 +1,74 @@
+﻿[
+  {
+    "id": "123456789",
+    "title": "Yogurt",
+    "image_url": "https://yog.image_url1.jpg",
+    "price": "20",
+    "created_at": "20-09-2019",
+    "updated_at": "25-09-2019",
+    "description": "description111"
+  },
+  {
+    "id": "123451189",
+    "title": "Milk",
+    "image_url": "https://image_url1#ilk.jpg",
+    "price": "30",
+    "created_at": "29-09-2022",
+    "updated_at": "30-09-2022",
+    "description": "Milk description"
+  },
+  {
+    "id": "123456689",
+    "title": "Chocolate",
+    "image_url": "https://choc.image_url60.jpg",
+    "price": "44",
+    "created_at": "18-04-2021",
+    "updated_at": "28-04-2021",
+    "description": "description chocolate"
+  },
+  {
+    "id": "111456789",
+    "title": "Bread",
+    "image_url": "https://bakery%image_url1.jpg",
+    "price": "25",
+    "created_at": "22-09-2022",
+    "updated_at": "23-09-2022",
+    "description": "tasty bread "
+  },
+  {
+    "id": "003456709",
+    "title": "Strawberry",
+    "image_url": "https://berry%%image_url1.jpg",
+    "price": "100",
+    "created_at": "06-07-2022",
+    "updated_at": "10-07-2022",
+    "description": "description of taste berry"
+  },
+  {
+    "id": "000056789",
+    "title": "Ice Cream",
+    "image_url": "https://ice.image_url00.jpg",
+    "price": "50",
+    "created_at": "01-10-2022",
+    "updated_at": "20-10-2022",
+    "description": "description876543"
+  },
+  {
+    "id": "121116789",
+    "title": "Cream",
+    "image_url": "https://image_url1%ilkprod.jpg",
+    "price": "40",
+    "created_at": "09-04-2020",
+    "updated_at": "09-04-2021",
+    "description": "descriptiofghnbtvtn1"
+  },
+  {
+    "id": "123456701",
+    "title": "Salmon",
+    "image_url": "https://fish.pick%image_url.jpg",
+    "price": "200",
+    "created_at": "20-05-2022",
+    "updated_at": "20-06-2022",
+    "description": "description sea fish mmm"
+  }
+]
