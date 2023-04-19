@@ -1,0 +1,16 @@
+﻿[
+  {
+    "firstName": "Walter",
+    "lastName": "White",
+    "email": "white@lnu.edu",
+    "password": "String123",
+    "role": "admin"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Wick",
+    "email": "wick@lnu.edu",
+    "password": "String123",
+    "role": "manager"
+  }
+]
