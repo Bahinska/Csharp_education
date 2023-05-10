@@ -1,1 +1,1 @@
-# Csharp_education
+Repository for LNU programming tasks.
