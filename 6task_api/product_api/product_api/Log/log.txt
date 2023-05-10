@@ -1,0 +1,14 @@
+05.06.2023 15:22 Get all products
+05.06.2023 19:08 SUCCESS Get all products
+05.07.2023 17:14 SUCCESS Create product
+05.07.2023 17:14 SUCCESS Get all publiched
+05.07.2023 17:27 SUCCESS Create product
+05.07.2023 17:35 SUCCESS Delete product
+05.07.2023 17:35 SUCCESS Delete product
+05.07.2023 17:49 SUCCESS Get all products
+05.07.2023 17:50 SUCCESS Get all products
+05.07.2023 17:54 SUCCESS Get all products
+05.10.2023 10:36 SUCCESS Get all products
+05.10.2023 10:41 SUCCESS Get product with id 2
+05.10.2023 10:48 SUCCESS Get product with id 3
+05.10.2023 10:53 SUCCESS Delete product
